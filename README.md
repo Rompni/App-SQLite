@@ -1,0 +1,1 @@
+App Movil con crud de SQLite y uso de adaptadores 

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sqliteUniversity</string>
+    <string name="separator">---------------------------------------------------</string>
+    <string name="lista_de_estudiantes">Lista de Estudiantes</string>
+    <string name="escoge_un_estudiante_para_editar">Escoge un estudiante para editar</string>
+    <string name="volver">Volver</string>
+    <string name="agregar_estudiantes">Agregar Estudiantes</string>
+</resources>
